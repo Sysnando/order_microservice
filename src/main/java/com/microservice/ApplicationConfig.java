@@ -1,4 +1,4 @@
-package com.microservice.config;
+package com.microservice;
 
 import javax.inject.Named;
 
